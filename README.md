@@ -34,7 +34,7 @@ i prikazu teksta.
 
 1. Preuzmite najnoviji `Pravoslavac_Dark_<verzija>.apk` iz sekcije **Releases** i instalirajte ga.
 2. U LSPosed-u otvorite **Moduli**, uključite **Pravoslavac Dark** i u opsegu (scope) označite
-   `com.pravoslavac` i/ili `com.zitijesvetih` i `System Framework`.
+   `com.pravoslavac` i/ili `com.zitijesvetih`.
 3. Prisilno zaustavite aplikaciju i pokrenite je ponovo.
 
 Modul se pojavljuje u LSPosed-u pod nazivom *Pravoslavac Dark*, a paket je `io.github.borko17.pravoslavac.dark`.
